@@ -1,0 +1,81 @@
+{
+    "villes": [
+      {
+        "id": 1,
+        "name": "Porto-Novo",
+        "cities": [
+          {
+            "name": "Sydney, Porto",
+            "imageUrl": "https://fr.pinterest.com/pin/979181143972882439/",
+            "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
+          },
+          {
+            "name": "Melbourne, Australia",
+            "imageUrl": "enter_your_image_for_melbourne.jpg",
+            "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Cotonou",
+        "cities": [
+          {
+            "name": "Akpakpa, Cotonou",
+            "imageUrl": "https://fr.pinterest.com/pin/334251603610796193/",
+            "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
+          },
+          {
+            "name": "Kyoto, Japan",
+            "imageUrl": "enter_your_image_for_kyoto.jpg",
+            "description": "Known for its historic temples, gardens, and traditional tea houses."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Abomey",
+        "cities": [
+          {
+            "name": "place ville Abomey",
+            "imageUrl": "https://fr.pinterest.com/pin/64668944644640253/",
+            "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks."
+          },
+          {
+            "name": "São Paulo, Brazil",
+            "imageUrl": "enter_your_image_for_sao-paulo.jpg",
+            "description": "The financial hub with diverse culture, arts, and a vibrant nightlife."
+          }
+        ]
+      }
+    ],
+    "temples": [
+      {
+        "id": 1,
+        "name": "temple phyton",
+        "imageUrl": "https://fr.pinterest.com/pin/447263806753023945/",
+        "description": "A UNESCO World Heritage site and the largest religious monument in the world."
+      },
+      {
+        "id": 2,
+        "name": "Taj Mahal, India",
+        "imageUrl": "enter_your_image_for_taj-mahal.jpg",
+        "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
+      }
+    ],
+    "beaches": [
+      {
+        "id": 1,
+        "name": "Bora Bora, French Polynesia",
+        "imageUrl": "enter_your_image_for_bora-bora.jpg",
+        "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
+      },
+      {
+        "id": 2,
+        "name": "plage Ouidah",
+        "imageUrl": "https://fr.pinterest.com/pin/644788871651030966/",
+        "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
+      }
+    ]
+  }
+  
